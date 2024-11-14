@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.github.jiaolong</groupId>
+    <artifactId>jlayer</artifactId>
+    <version>1.0.1</version>
+</dependency>
